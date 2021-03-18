@@ -1,0 +1,24 @@
+#customize-controls .control-section-greatnews .accordion-section-title:hover,
+#customize-controls .control-section-greatnews .accordion-section-title:focus {
+	background-color: #212121;
+	color: #fff;
+}
+
+.control-section-greatnews .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #fa3535;
+	border-color: #fa3535;
+	color: #fff;
+}
+
+.rtl .control-section-greatnews .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-greatnews h3.accordion-section-title {
+    background-color: #212121;
+    color: #fff;
+}
